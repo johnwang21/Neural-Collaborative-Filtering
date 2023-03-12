@@ -19,7 +19,3 @@ References:
 1. Source of truth:
 https://arxiv.org/pdf/1708.05031.pdf
 https://github.com/hexiangnan/neural_collaborative_filtering/
-2. Training/Validation
-https://www.kaggle.com/code/chaitanya99/recommendation-system-cf-anime
-3. Embedding Layers
-https://www.kaggle.com/code/colinmorris/embedding-layers
